@@ -7,7 +7,9 @@ https://codelabs-preview.appspot.com/?file_id=1sku2oOMz8ovx0gLyCjzmnHFWITOBUpk-O
 🎓 Team Members
 
 Aishwarya SVS: 002774851
+
 Arjun Janardhan: 001566405
+
 Sanidhya Mathur: 002766999
 
 Visual search is a technology or technique that utilizes computer vision and machine learning to search for and retrieve images or objects that share visual similarities with a given query image. It involves the analysis of visual features, patterns, and attributes within images to find and present visually similar content.
