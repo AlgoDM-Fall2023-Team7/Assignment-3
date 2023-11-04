@@ -22,9 +22,11 @@ To run this Streamlit application, follow these steps:
 
 4. Train the Style Transfer Model:
 
-Run the provided Jupyter Notebook (ipynb file) to train the style transfer model using your prepared dataset.
-Save the pretrained model for later use in the Streamlit application.
-Replace the image_paths variable with the file paths to your images in the code.
+  Run the provided Jupyter Notebook (ipynb file) to train the style transfer model using your prepared dataset.
+  
+  Save the pretrained model for later use in the Streamlit application.
+  
+  Replace the image_paths variable with the file paths to your images in the code.
 
 5. Run the Streamlit app by executing the following command in your terminal: streamlit run your_app_name.py
 
