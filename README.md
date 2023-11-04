@@ -1,9 +1,5 @@
 # Assignment-3
 
-Video Presentation: 
-
-https://youtu.be/4WwC0LaH_yE
-
 Google Codelab Presentation:
 
 https://codelabs-preview.appspot.com/?file_id=1sku2oOMz8ovx0gLyCjzmnHFWITOBUpk-OXO6uBa5EkE#0
@@ -23,7 +19,3 @@ The second concept, "Visual Search (Similarity)," is a technology that harnesses
 The third concept, "Visual Search (Variational Autoencoder)," are pivotal in unsupervised learning, offering the ability to learn embeddings of images for tasks such as nearest neighbor search. The report highlights the importance of this concept in daily life, from enhanced image search to personalization, and showcases the application of VAEs in platforms like Pinterest.
 
 Each of these concepts represents a significant advancement in the field of visual search and plays a vital role in enhancing user experiences, expanding the possibilities of image retrieval, and enabling personalization in various domains. The report explores the technology and models used in these concepts, providing a comprehensive understanding of their applications and implications in real-life scenarios.
-
-Task 2 app (Visual Search Application): 
-
-https://visualsearchapppy-qgniscwekqwuxy9pfcgmfk.streamlit.app/
